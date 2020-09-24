@@ -1,0 +1,2 @@
+obj\Debug/BevyEditorService.cs \
+obj\Debug/BevyEditorServiceGrpc.cs: BevyEditorService.proto
